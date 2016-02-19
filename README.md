@@ -1,6 +1,7 @@
-# RESTful Service Task
+# Monitor - Camunda
 
 This example contains 2 parts:
+
 1. Exposed Webservice to be invoked from camunda process
 2. Invocation Camunda Rest API to start a new process. 
 
